@@ -3,6 +3,7 @@
 👨‍💻 **Ingeniero de Sistemas** con más de **8 años de experiencia en desarrollo de software**, especializado en tecnologías Microsoft (.NET, Azure), diseño de interfaces web modernas, e implementación de soluciones empresariales escalables. Me apasiona la **innovación tecnológica**, el trabajo en equipo, y aportar soluciones que **optimicen procesos reales**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FelixSanchez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/felix-sanchez-fandino/)
+
 📧 [felix_rsf@hotmail.com](mailto:felix_rsf@hotmail.com)  
 📍 Madrid, Cundinamarca – Colombia
 
